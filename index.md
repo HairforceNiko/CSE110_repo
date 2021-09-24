@@ -32,7 +32,7 @@ Above code is from [QuickSort GeeksforGeeks](https://www.geeksforgeeks.org/quick
 I love playing video games especially FPS(First-person Shooter). I used to achieve top500 in Overwatch for five seasons and got diamond in Tom Clancy's Rainbow Six Siege.
 
 I also love watching japanese anime movies such as Takanashi Rikka.
-![Takanashi Rikka](https://chunibyo.fandom.com/wiki/Rikka_Takanashi?file=Chu2movierikka.png).
+![Takanashi Rikka](https://www.google.com/search?q=takanashi+rikka&rlz=1C1GCEA_enUS972US972&tbm=isch&source=iu&ictx=1&fir=c8dl2GFe9eCDoM%252Clr0NnDxOg5wl8M%252C_%253B6djUA2FQFRxIlM%252CC0eTOvyE_76aRM%252C_%253BlljtLjbJQAQMuM%252CV6TffvAHdZYMSM%252C_%253BuFDYFhrslejuQM%252CFox_BmWTClAHSM%252C_%253BFfMYY1NwXBsD-M%252CQVbb7_pzgBrh0M%252C_%253BcsbUO2sEhIVIfM%252CMAUR008qSowlcM%252C_%253BQavFZRlhQvneVM%252CmrdSWXhWFounMM%252C_%253Br8zdFQA0CRt69M%252CKDRaSCNKMWVhUM%252C_&vet=1&usg=AI4_-kQBvfjkHJBRT8QFe1XQc5UwpuXywg&sa=X&ved=2ahUKEwih8aPb5pjzAhW2CjQIHZWuBXQQ9QF6BAgWEAE&biw=1920&bih=1089&dpr=1#imgrc=c8dl2GFe9eCDoM).
 
 My available programming language:
 - Java
