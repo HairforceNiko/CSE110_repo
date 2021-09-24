@@ -1,6 +1,6 @@
 #Fangqi Yuan's Profile
 Hello, my name is **Fangqi Yuan** and I'm currently a senior student in **UC San Diego**.
-[README](CSE110_repo/README.md)
+[README](/CSE110_repo/README.md)
 
 ##As a programmer
 I have complete several internship during past two years in ICBC(**Industrial and Commercial Bank of China**) and **Shanghai Shiyou Company**.
