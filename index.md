@@ -7,7 +7,8 @@ I have complete several internship during past two years in ICBC(**Industrial an
 I'm good at writing Java and SQL code and debug existing programs.
 I love what Bill Gates say:
 > Life is not fair; get used to it.
-I love code named QuickSort:
+
+I also love code named QuickSort:
 ```
 quickSort(arr[], low, high)
 {
