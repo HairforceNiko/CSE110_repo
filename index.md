@@ -4,7 +4,9 @@ Hello, my name is **Fangqi Yuan** and I'm currently a senior student in **UC San
 
 ##As a programmer
 I have complete several internship during past two years in ICBC(**Industrial and Commercial Bank of China**) and **Shanghai Shiyou Company**.
+
 I'm good at writing Java and SQL code and debug existing programs.
+
 I love what Bill Gates say:
 > Life is not fair; get used to it.
 
