@@ -1,7 +1,7 @@
 #Fangqi Yuan's Profile
 Hello, my name is **Fangqi Yuan** and I'm currently a senior student in **UC San Diego**.
 
-##As a programmer [Anchor](#1)
+##As a programmer 
 I have complete several internship during past two years in ICBC(**Industrial and Commercial Bank of China**) and **Shanghai Shiyou Company**.
 
 Wiki of ICBC [ICBC](https://en.wikipedia.org/wiki/Industrial_and_Commercial_Bank_of_China).
@@ -28,6 +28,7 @@ quickSort(arr[], low, high)
 ```
 Above code is from [QuickSort GeeksforGeeks](https://www.geeksforgeeks.org/quick-sort/).
 
+[Anchor](#As a programmer)
 
 ##As a person
 I love playing video games especially FPS(First-person Shooter). I used to achieve top500 in Overwatch for five seasons and got diamond in Tom Clancy's Rainbow Six Siege.
