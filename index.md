@@ -1,4 +1,7 @@
+#Top
+
 #Fangqi Yuan's Profile
+
 Hello, my name is **Fangqi Yuan** and I'm currently a senior student in **UC San Diego**.
 
 ##As a programmer 
@@ -46,4 +49,4 @@ My favourite language:
 - [x] Chinese
 - [ ] Others
 
-[Top](#Fangqi-Yuan's-Profile)
+[Top](#top)
