@@ -28,8 +28,6 @@ quickSort(arr[], low, high)
 ```
 Above code is from [QuickSort GeeksforGeeks](https://www.geeksforgeeks.org/quick-sort/).
 
-[Anchor](#As a programmer)
-
 ##As a person
 I love playing video games especially FPS(First-person Shooter). I used to achieve top500 in Overwatch for five seasons and got diamond in Tom Clancy's Rainbow Six Siege.
 
@@ -47,3 +45,5 @@ My favourite language:
 - [x] Japanese
 - [x] Chinese
 - [ ] Others
+
+[Top](#Fangqi-Yuan's-Profile)
